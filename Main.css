@@ -1,0 +1,73 @@
+header{
+
+}
+.section__subtitle--intro{
+    width: 500px;
+    position: absolute;
+    top: 200px;
+}
+body{
+    color: rgb(255, 255, 255);
+    display: flex;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    width: 1000px;
+    background-color: #046379;
+}
+.my-services{
+    position: absolute;
+    left: 550px;
+    top: 100px;
+    width: 1000px;
+}
+.section__title--intro{
+    position: absolute;
+    justify-content: right;
+    display: flex;
+    border-radius: 10px;
+    background-color: rgb(197, 197, 197);
+    width: 300px;
+}
+.work{
+    display: flexbox;
+    border-radius: 5px;
+    background-color: rgb(197, 197, 197);
+}
+.section__title--services{
+    position: absolute;
+    left: 250px;
+    top: 500px;
+}
+div .services{
+    position: absolute;
+    display: flex;
+    left: 500px;
+}
+.strong{
+    display: flex;
+    padding: 50px;
+}
+.about-me{
+    position: absolute;
+    top: 750px;
+    width: 400px;
+}
+.section__title--about{
+    width: max-content;
+}
+.my-work{
+    position: absolute;
+    top: 900px;
+    right: 50px;
+}
+.photo-album{
+    position: absolute;
+    top: 500px;
+    left: 250pxpx;
+}
+.camera{
+    position: absolute;
+    top: 500px;
+    left: 300px;
+}
